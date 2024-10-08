@@ -17,7 +17,7 @@ Ciao! Sono uno sviluppatore web appassionato, con esperienza nello sviluppo fron
 1. **Progetto Finale Aulab - Sito di Vendita di Oggetti Usati**
    - Tecnologie: Laravel, CSS, GSAP, Javascript
    - Descrizione: Abbiamo sviluppato una piattaforma web per la compravendita di oggetti usati, ispirata a servizi come Vinted e Wallapop. L'obiettivo era creare uno spazio sicuro e intuitivo dove gli utenti potessero registrarsi, pubblicare annunci e acquistare prodotti di seconda mano. La piattaforma integra funzionalità di ricerca avanzata, profili utenti, zona revisori, possibilità di collaborare con il sito. Il progetto è stato realizzato utilizzando Laravel per il backend e Bootstrap, CSS e Javascript per il frontend, con un'attenzione particolare alla user experience e alla performance del sito.
-   - [Link al progetto o repository]
+   - https://github.com/FrancescoPagone/Presto.it.git
 
 ## 📈 Obiettivi Futuri
 
