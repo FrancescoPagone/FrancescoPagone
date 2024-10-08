@@ -7,8 +7,10 @@ Ciao! Sono uno sviluppatore web appassionato, con esperienza nello sviluppo fron
 - **HTML5 & CSS3**: Creazione di layout responsive e accessibili con attenzione ai dettagli e all'usabilità.
 - **JavaScript (ES6+)**: Sviluppo di interfacce utente interattive e dinamiche, sia lato frontend che backend.
 - **PHP**: Sviluppo backend con PHP per gestire logiche complesse e database.
-- **Laravel**: Utilizzo di Laravel per la creazione di applicazioni web scalabili e sicure, con gestione di database, API, e autenticazione.
+- **Laravel**: Utilizzo di Laravel per la creazione di applicazioni web scalabili e sicure, con gestione di database, API e autenticazione.
 - **React.js**: Sviluppo di applicazioni frontend moderne e reattive, con gestione dello stato e componentizzazione.
+- **Bootstrap & Tailwind CSS**: Utilizzo di framework per la creazione di interfacce responsive e moderne.
+
 
 ## 💼 Progetti Recenti
 
